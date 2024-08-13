@@ -1,4 +1,4 @@
-#Project report
+<h5>Project report</h5>
 
 <h4>Introduction</h4>
 This project aims to develop a basic, user-friendly machine learning library tailored for educational and prototyping purposes. The goal of our project is to create a fundamental machine learning library from the scratch, using only freely available libraries such as NumPy, Pandas, and Matplotlib
